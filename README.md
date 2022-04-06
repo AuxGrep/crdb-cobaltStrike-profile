@@ -16,7 +16,7 @@ Alternatively, if a client wants to test detection capabilities, you could make 
 In any linux OS (hacker's server) just run the following command to start teamserver and load this profile
 
 ──(auxgrep㉿kali)-[~/Desktop/CS4.5]
-└─$ ./teamserver <SERVER-IP> <PASSWORD> crdb.profile
+└─$ ./teamserver <<SERVER-IP>> <<PASSWORD>> crdb.profile
   
   note: make sure your in de directory that contains cobalt strike linux package 
   
