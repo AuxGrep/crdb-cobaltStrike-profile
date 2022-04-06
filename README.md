@@ -11,5 +11,17 @@ Cobalt Strike’s Malleable C2 is a method of avoiding that problem when it come
 
 Alternatively, if a client wants to test detection capabilities, you could make your traffic look like a well-known malware toolkit like Zeus.
 
+# GET STARTED
+
+In any linux OS (hacker's server) just run the following command to start teamserver and load this profile
+
+──(auxgrep㉿kali)-[~/Desktop/CS4.5]
+└─$ ./teamserver <SERVER-IP> <PASSWORD> crdb.profile
+  
+  note: make sure your in de directory that contains cobalt strike linux package 
+  
+  if you dont have it ...check me here mranonymoustz@tutanota.com
+
+
 @ENJOY
 
